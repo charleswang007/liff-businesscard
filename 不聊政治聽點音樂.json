@@ -1,0 +1,81 @@
+{
+    "page": 1,
+    "json5": {
+      "altText": "不聊政治，聽點音樂吧！",
+      "btnHeight": "sm",
+      "descSize": "md",
+      "ratio": "3:2",
+      "titleSize": "lg",
+      "cards": [
+        {
+          "bgColor": "#c6fbf7",
+          "desc": "我是1號，台灣的選擇",
+          "descColor": "#000000",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_XzZFwnhVSv_NJFcN4_A-vqBmFFMNOajsvQ2_2b6oo2m2LtOoIEfpf6MwRbVl_Hh0zYM&usqp=CAU",
+          "link": "https://charleswang.us/animal-kingdom/",
+          "title": "柯文哲 X 吳欣盈",
+          "titleColor": "#000000",
+          "btns": [
+            {
+              "color": "#ffffff",
+              "link": "https://www.youtube.com/watch?v=euZ1IK1eYxA",
+              "style": "secondary",
+              "text": "【穩穩地走】"
+            },
+            {
+              "color": "#ffffff",
+              "link": "https://www.youtube.com/watch?v=symjyQA2FVk",
+              "style": "secondary",
+              "text": "【依然向前行】"
+            }
+          ]
+        },
+        {
+          "bgColor": "#dcfee5",
+          "desc": "我是2號，台灣的美德",
+          "descColor": "#000000",
+          "image": "https://s.yimg.com/ny/api/res/1.2/LM4jhJdtgDc4yihQvzIcDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://media.zenfs.com/ko/ftvn.com.tw/990e22809dbe3f85f45151eea7b9c1dd",
+          "link": "https://charleswang.us/animal-kingdom/",
+          "title": "賴清德 X 蕭美琴",
+          "titleColor": "#000000",
+          "btns": [
+            {
+              "color": "#57c75e",
+              "link": "https://www.youtube.com/watch?v=UpzLpfJ027k",
+              "style": "primary",
+              "text": "【路 2024】"
+            },
+            {
+              "color": "#57c75e",
+              "link": "https://www.youtube.com/watch?v=Cc57K4XmWhM",
+              "style": "primary",
+              "text": "【挺台灣應援曲】"
+            }
+          ]
+        },
+        {
+          "bgColor": "#d2f3fe",
+          "desc": "我是3號，台灣的友誼",
+          "descColor": "#000000",
+          "image": "https://charleswang.us/line/kmt.jpg",
+          "link": "https://charleswang.us/animal-kingdom/",
+          "title": "侯友宜 X 趙少康",
+          "titleColor": "#000000",
+          "btns": [
+            {
+              "color": "#608cd2",
+              "link": "https://www.youtube.com/watch?v=3OHNE79sTpA",
+              "style": "primary",
+              "text": "【台灣的未來】"
+            },
+            {
+              "color": "#608cd2",
+              "link": "https://www.youtube.com/watch?v=eOrGy7yk_OE",
+              "style": "primary",
+              "text": "【有我有你 Me & You】"
+            }
+          ]
+        }
+      ]
+    }
+  }
